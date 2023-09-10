@@ -29,3 +29,6 @@
     git clone https://github.com/Yagorka/cb_rf_hackathon
 ```
 Затем перейти в **final_solve.ipynb** с финальным решением и прогнать его
+
+Веса для bert моделей для каждого агенства [здесь](https://drive.google.com/drive/folders/1_icy_b_Ly9OHoU-7RvAehfa2-pnWap-H?usp=sharing)
+таблица с результатами [здесь](https://docs.google.com/spreadsheets/d/1J_zI2GweVB0E3VjHf33E073avn-gZXS8Y9yHJGTKKnU/edit?usp=sharing)
